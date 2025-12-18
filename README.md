@@ -20,12 +20,12 @@
   #gameArea {
     position:relative;
     width:90%;
-    max-width:900px;
-    height:800px;
+    max-width:800px;
+    height:700px;
     background:#111;
     overflow:hidden;
-    border-radius:13px;
-    box-shadow:0 0 80px rgba(0,0,0,0.8);
+    border-radius:20px;
+    box-shadow:0 0 40px rgba(0,0,0,0.8);
   }
   #player {
     position:absolute;
