@@ -20,8 +20,8 @@
   #gameArea {
     position:relative;
     width:90%;
-    max-width:800px;
-    height:700px;
+    max-width:1000px;
+    height:600px;
     background:#111;
     overflow:hidden;
     border-radius:20px;
