@@ -24,7 +24,7 @@
     height:600px;
     background:#111;
     overflow:hidden;
-    border-radius:20px;
+    border-radius:50px;
     box-shadow:0 0 40px rgba(0,0,0,0.8);
   }
   #player {
