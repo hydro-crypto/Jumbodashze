@@ -19,7 +19,7 @@
   }
   #gameArea {
     position:relative;
-    width:900%;
+    width:200%;
     max-width:800px;
     height:600px;
     background:#111;
